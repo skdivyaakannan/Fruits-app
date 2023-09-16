@@ -1,0 +1,145 @@
+.navbar{
+    display:flex;
+    justify-content:space-around;
+}
+.right{
+    display: flex;
+    justify-content:space-around;
+}
+.home{
+    padding: 15px;
+}
+.products{
+    padding: 15px;
+}
+.about{
+    padding: 15px;
+}
+.shop{
+    padding: 15px;
+}
+.contact{
+    padding: 15px;
+}
+.h{
+    color: #F21305;
+    text-decoration: underline #F21305 ;
+}
+.cart{
+    margin-top:30px;
+}
+.left{
+    margin-top:20px;
+}
+.dk{
+    color:#863EB2;
+}
+.mainsec{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+.order{
+    background-color: #F21305;
+    color: white;
+    padding:5px;
+    border-radius: 5px;
+}
+.pic{
+    margin-right: 10px;
+}
+.rights{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 60px;
+    
+    
+}
+.fruits{
+    height:300px;
+    width:300px;
+    padding:5px;
+    border:5px solid #CC478C;
+
+}
+.lefts{
+    margin-left:60px;
+   
+}
+
+.fresh{
+    color:orange;
+}
+.mainfooter{
+    display: flex;
+    
+}
+.footer{
+    background-color:white;
+    height: 200px;
+    width:100%;
+    margin-top:100px;
+    display: flex;
+    
+    
+    
+    
+    
+}
+.menu{
+    margin-left: 270px;
+    margin-top: 10px;
+}
+.apple{
+    height:50px;
+    width:200px;
+    background-color:white;
+    border-radius: 5px;
+    margin-left:5px;
+    margin-top: 30px;
+    display: flex;
+    box-shadow: 5px 5px 5px rgb(175, 184, 184);
+    
+}
+.a1{
+    height:40px;
+    width:40px;
+    margin-top: 5px;
+}
+.des{
+    font-size:12px;
+    margin-left: 15px;
+    margin-top: 12px;
+    margin-bottom: 0px;
+}
+.rate{
+    
+    margin-left:20px;
+    margin-top: 0px;
+    color:rgb(214, 146, 10)
+}
+.one{
+    margin-left:100px;
+}
+ .all{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 30px;
+ }
+ .for{
+    margin-bottom:10px;
+ }
+ 
+ 
+ .ord{
+    margin-top:30px;
+ }
+ .f1{
+    margin-bottom:0px;
+    
+ }
+ .f2{
+    margin-top:0px;
+ }
+ 
